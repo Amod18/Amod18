@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amod18&label=Profile%20views&color=0e75b6&style=flat" alt="amod18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AmodNagpal" target="blank"><img src="https://img.shields.io/twitter/follow/amod_nagpal?logo=twitter&style=for-the-badge" alt="amod_nagpal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AmodNagpal" target="blank"><img src="https://img.shields.io/twitter/follow/AmodNagpal?logo=twitter&style=for-the-badge" alt="amod_nagpal" /></a> </p>
 
 - 🔭 I’m currently **Upgrading myself!**
 
