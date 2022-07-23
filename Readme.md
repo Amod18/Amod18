@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **Upgrading myself!**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Python, ML, Web-Dev**
 
