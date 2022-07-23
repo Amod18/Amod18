@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/AmodNagpal" target="blank"><img src="https://img.shields.io/twitter/follow/AmodNagpal?logo=twitter&style=for-the-badge" alt="amod_nagpal" /></a> </p>
 
-- 🔭 I’m currently **Upgrading myself!**
+- 🔭 Currently **Upgrading myself!**
 
 - 🌱 I’m currently learning **ReactJS**
 
