@@ -8,9 +8,9 @@
 
 - 🔭 Currently **Upgrading myself!**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python, ML, Web-Dev**
+- 💬 Ask me about **Python, ML, Web-Dev, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
