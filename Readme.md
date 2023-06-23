@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/AmodNagpal" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></a> &nbsp &nbsp
 <a href="https://in.linkedin.com/in/amod-nagpal-0a9709203?trk=people-guest_people_search-card" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="linkedin"/></a> &nbsp &nbsp
-<a href="https://codeforces.com/profile/amod18" target="blank"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="IconChangeColor" height="139" width="139"><title>Codeforces</title><path d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z" id="mainIconPathAttribute" stroke-width="0.5" stroke="#1751c4" fill="#ff0000"></path></svg></a>
+<a href="https://codeforces.com/profile/amod18" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
