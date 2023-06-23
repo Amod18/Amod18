@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AmodNagpal" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></a> &nbsp &nbsp
-<a href="https://in.linkedin.com/in/amod-nagpal-0a9709203?trk=people-guest_people_search-card" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="linkedin"/></a> &nbsp &nbsp
+<a href="https://in.linkedin.com/in/amod-nagpal-0a9709203?trk=people-guest_people_search-card" target="blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> </a> &nbsp &nbsp
 <a href="https://codeforces.com/profile/amod18" target="blank"></a>
 </p>
 
