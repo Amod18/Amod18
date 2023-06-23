@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AmodNagpal" target="blank"><img align="center" src="https://www.pngaaa.com/detail/619009" alt="amod_nagpal" height="30" width="40" /></a> &nbsp &nbsp
+<a href="https://twitter.com/AmodNagpal" target="blank"><img align="center" src="https://icons8.com/icon/437/twitter" alt="amod_nagpal" height="30" width="40" /></a> &nbsp &nbsp
 <a href="https://in.linkedin.com/in/amod-nagpal-0a9709203?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amod nagpal" height="30" width="40" /></a> &nbsp &nbsp
 <a href="https://codeforces.com/profile/amod18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amod18" height="30" width="40" /></a>
 </p>
