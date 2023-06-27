@@ -33,21 +33,20 @@
 </a> &nbsp;
 <br> <br>
   
-<a> <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" /> 
-</a> &nbsp;
+<a> <img width="48" height="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5--v1"/> </a> &nbsp;
 <a> <img width="48" height="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-3.png" alt="CSS"/>
 </a> &nbsp;
-<a> <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> 
+<a> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 </a> &nbsp;
-<a> <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" /> 
+<a> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo"/>
 </a> &nbsp;
-<a> <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" /> 
+<a> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> 
 </a> &nbsp;
 <br> <br>
 
 <a> <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/> 
 </a> &nbsp;
-<a> <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /> 
+<a> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
 </a> &nbsp;
 <a> <img width="48" height="48" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"/> 
 </a> &nbsp;
