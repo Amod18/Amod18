@@ -8,7 +8,7 @@
 
 - 🔭 Currently **Upgrading myself!**
 
-- 🌱 I’m currently learning **DSA** n **WEB-DEV**
+- 🌱 I’m currently learning **JAVA** n **Data Science**
 
 - 💬 Ask me about **Python, ML, Web-Dev, C++**
 
