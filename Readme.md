@@ -8,9 +8,9 @@
 
 - 🔭 Currently **Upgrading myself!**
 
-- 🌱 I’m currently learning **Java** n **Data Science**
+- 🌱 I’m currently learning and working on **Data Science**
 
-- 💬 Ask me about **Python, ML, Web-Dev, C++**
+- 💬 Ask me about **Python, ML, DL, NLP C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
