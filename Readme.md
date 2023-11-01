@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning and working on **Data Science**
 
-- 💬 Ask me about **Python, ML, DL, NLP C++**
+- 💬 Ask me about **Python, ML, DL, NLP, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
