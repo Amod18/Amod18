@@ -10,7 +10,7 @@
 
 - 🔭 **Upgrading myself!**
 
-- 🌱 Currently working on building a **Chatbot**
+- 🌱 Currently building a **Chatbot**
 
 - 💬 Ask me about **Python, ML, DL, NLP, C++**
 
