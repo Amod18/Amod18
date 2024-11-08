@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amod Nagpal</h1>
-- 👀 I’m interested in NLP, GEN AI, Chatbot building.
-- 🌱 I’m currently working as a Data Scientist.
-- 💞️ I’m looking to collaborate on Generative AI applications.
-- 🔥 Learning and growing in tech everyday!
+<ul>
+  <li>👀 I’m interested in NLP, GEN AI, Chatbot building.</li>
+  <li>🌱 I’m currently working as a Data Scientist.</li>
+  <li>💞️ I’m looking to collaborate on Generative AI applications.</li>
+  <li>🔥 Learning and growing in tech everyday!</li>
+</ul>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amod18&label=Profile%20views&color=0e75b6&style=flat" alt="amod18" /> </p>
